@@ -1,0 +1,5 @@
+2020-05-28 15:56:33 [main] ERROR by.epam.ConnectionPool - No suitable driver found for jdbc:oracle:thin:@localhost:1521:orcl
+2020-05-28 15:56:33 [main] ERROR by.epam.ConnectionPool - No suitable driver found for jdbc:oracle:thin:@localhost:1521:orcl
+2020-05-28 15:56:33 [main] ERROR by.epam.ConnectionPool - No suitable driver found for jdbc:oracle:thin:@localhost:1521:orcl
+2020-05-28 15:56:33 [main] ERROR by.epam.ConnectionPool - No suitable driver found for jdbc:oracle:thin:@localhost:1521:orcl
+2020-05-28 15:56:33 [main] ERROR by.epam.ConnectionPool - No suitable driver found for jdbc:oracle:thin:@localhost:1521:orcl
